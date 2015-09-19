@@ -1,7 +1,7 @@
 {
   "name": "i-error-handler",
   "version": "0.1.0",
-  "description": "error handling",
+  "description": "node.js - express dumb error handling",
   "keywords": [
     "error-handler"
   ],
